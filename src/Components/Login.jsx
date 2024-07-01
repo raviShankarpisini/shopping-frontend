@@ -73,7 +73,7 @@ function Login() {
 						htmlFor="username"
 						className="mb-2 text-slate-700 text-sm font-medium"
 					>
-						USER NAME/EMAIL 123
+						USER NAME/EMAIL
 					</label>
 					<br />
 					<input
